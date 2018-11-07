@@ -1,0 +1,12 @@
+﻿using System;
+
+namespace Question_5
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Добър ден");
+        }
+    }
+}
